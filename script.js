@@ -1,5 +1,5 @@
-/*// EJERCICIO Nº0
-
+// EJERCICIO Nº0
+/*
 let nombre = prompt("ingrese su nombre por favor");
 console.log(nombre);
 alert("hola" + " " + nombre);
@@ -13,17 +13,17 @@ let num1 = parseInt(prompt("ingrese un numero"));
 let num2 = parseInt(prompt("ingrese otro numero"));
 suma = num1 + num2
 console.log("el resultado de la suma es: " + suma);
-
+*/
 
 
 //EJERCICIO Nº2
 
 let edad = parseInt(prompt("ingrese su edad"));
 let añoNacimiento = 2021 - edad;
-cosnole.log("usted nació en: " + añoNacimiento);
+console.log("usted nació en: " + añoNacimiento);
 
 
-
+/* 
 //EJERCICIO Nº3
 
 let balance = 150000;
@@ -131,7 +131,7 @@ alert("la conversion de grado celsius a fahrenheit es: "+tempFahrenheit+" ºF");
 
 let tempFahrenheit = parseFloat(prompt("ingresa la temperatura al conversor en ºF"));
 let temp = (tempFahrenheit - 32) * (9 / 5);
-alert("la conversion de ºF a Celsius es: " + temp + " ºc");*/
+alert("la conversion de ºF a Celsius es: " + temp + " ºc");
 
 
 
@@ -149,4 +149,4 @@ if (resultado % 3 !== 0) {
 } else {
     let num = resultado / 3;
     alert(num);
-}
+}*/
