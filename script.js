@@ -13,7 +13,7 @@ let num1 = parseInt(prompt("ingrese un numero"));
 let num2 = parseInt(prompt("ingrese otro numero"));
 suma = num1 + num2
 console.log("el resultado de la suma es: " + suma);
-*/
+
 
 
 //EJERCICIO Nº2
@@ -23,7 +23,7 @@ let añoNacimiento = 2021 - edad;
 console.log("usted nació en: " + añoNacimiento);
 
 
-/* 
+
 //EJERCICIO Nº3
 
 let balance = 150000;
@@ -78,7 +78,7 @@ let minutos = parseInt(prompt("ingrese minutos"));
 let segundos = minutos * 60;
 alert("Los minutos ingresados equivalen a: " + "\n" + segundos + " segundos");
 
-
+*/
 
 //EJERCICIO Nº8
 
@@ -86,9 +86,9 @@ let alturaRectangulo = parseInt(prompt("ingrese la altura del rectángulo"));
 let baseRectangulo = parseInt(prompt("ingrese el valor de la base"));
 let áreaRectangulo = baseRectangulo * alturaRectangulo;
 console.log("El valor del área es: " + áreaRectangulo);
-alert("el valor del area es:\n" + área);
+alert("el valor del area es:\n" + áreaRectangulo);
 
-
+/*
 
 //EJERCICIO Nº9
 
